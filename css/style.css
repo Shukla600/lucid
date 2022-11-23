@@ -703,11 +703,10 @@ top: -0.5em;
 
 
 /*pricing part end*/
+/*contact form part1 start*/
 .contact_frm{
   background-color: #ededed;
   position: relative;
-  /* height: 350px; */
-  /* padding: 100px; */
   padding-bottom: 100px 0px;
   padding-bottom: 400px;
 }
@@ -815,9 +814,14 @@ border-radius: 5px;
 
 background-color: transparent;
 }
-.map{
-  display: flex;
+/*contact form part1 end*/
+
+.map iframe{
+  display: block;
 }
+
+
+/*fotter part1 start*/
 footer{
 
 background-color: black;
@@ -855,3 +859,4 @@ footer p{
   font-size: 14px;
   margin-left: 38px;
 }
+/*fotter part1 end*/
